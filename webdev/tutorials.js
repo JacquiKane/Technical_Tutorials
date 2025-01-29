@@ -34,7 +34,7 @@ const tutorials = {
   WD_006: [
     "<h3>Purdue Pete's React-ive Meetings App - React Responsively...</h3> #3 of 3<h4>Uses: React, React Router, JSX</h4>",
     "<p>Responsiveness is key - mobile first, the importance of prioritizing layouts on smaller devices like cell phones. Especially important in commercial applications - user experience may lead to a sale! </p>",
-    "<p>Traditionally, we integrate responsiveness by using key features of HTML/CSS, like Flexbox and media queries. In this tutorial, you will see how to use JSX to apply styles depending on the status of the application, and so enable responsiveness in terms of a hamburger menu. This is a small and specific example, however you can use the techniques presented to add your own extended strategy for responsive layouts.</p><a href='./documents/reactresponsiveness(3).pdf'>Choose Your Route Carefully!</a> </p>",
+    "<p>Traditionally, we integrate responsiveness by using key features of HTML/CSS, like Flexbox and media queries. In this tutorial, you will see how to use JSX to apply styles depending on the status of the application, and so enable responsiveness in terms of a hamburger menu. This is a small and specific example, however you can use the techniques presented to add your own extended strategy for responsive layouts.</p><a href='./documents/reactresponsiveness(3).pdf'>React Responsively!</a> </p>",
     "tut6.png",
   ],
 };
