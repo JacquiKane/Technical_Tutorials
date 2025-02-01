@@ -104,11 +104,31 @@ body h1 {
   width: 200px;
   text-align: center;
   cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
   font-weight: bolder;
+  border: 2px solid black;
+}
+
+.card:hover {
+  scale: 1.05;
+  border: 3px solid black;
+  box-shadow: grey 5px 5px 3px;
 }
 
 table {
   border: 1px solid grey;
+}
+
+h1 button {
+  font-size: 34px;
+  background-color: black;
+  color: gold;
+  border-radius: 10px;
+  border: 2px solid grey;
+}
+h1 button:hover {
+  scale: 1.2;
+  box-shadow: #373a36 8px 8px 8px;
+  cursor: pointer;
 }
